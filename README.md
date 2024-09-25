@@ -30,7 +30,7 @@ Este texto esta en *cursiva* y este también está en _cursiva_
 
 [Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge "Texto opcional")
 
-![Caballos](https://github.com/PhilipR7/2425-SMX2-A0-Test/blob/main/caballos.jpg "Titulo opcional de la imagen")
+![Caballos]( https://github.com/PhilipR7/2425-SMX2-A0-Test/blob/main/caballos.jpg "Titulo opcional de la imagen")
 
 |Columna 1 |Columna 2 |Columna 3| 
 |------------|:------------:|------------:| 
