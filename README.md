@@ -32,3 +32,9 @@ Este texto esta en *cursiva* y este también está en _cursiva_
 
 ![Caballos](https://github.com/PhilipR7/2425-SMX2-A0-Test/blob/main/caballos.jpg "Titulo opcional de la imagen")
 
+|Columna 1 |Columna 2 |Columna 3| 
+|------------|:------------:|------------:| 
+|Col 3 es |right-aligned|$1600| 
+|Col 2 es |centered|$12| 
+|zebra stripes |son limpias|$1| 
+
